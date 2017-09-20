@@ -1,0 +1,9 @@
+server: 
+  port: 8040
+eureka: 
+  client: 
+    serviceUrl: 
+      defaultZone: user-dev
+turbine: 
+  appConfig: userservice,orderservice
+  clusterNameExpression: "'default'"  
