@@ -1,10 +1,9 @@
 server: 
   port: 8040
-
 eureka: 
   client: 
     serviceUrl: 
-      defaultZone: http://user:password123@localhost:8761/eureka/,http://user:password123@localhost:8762/eureka/
+      defaultZone: user
 turbine: 
   appConfig: userservice,orderservice
   clusterNameExpression: "'default'"  
