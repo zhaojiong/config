@@ -1,0 +1,20 @@
+server:
+  port: 8012
+#userservice: 
+#  ribbon: 
+#    ribbonLoadBalancer: com.netflix.loadbalancer.ZoneAwareLoadBalancer  
+user.userInfo.path: http://localhost:8080/u/{id}
+spring:
+  application:
+    name: orderclientservice
+eureka: 
+  client: 
+    service-url:
+      defaultZone: http://user:password123@localhost:8761/eureka/,http://user:password123@localhost:8762/eureka/
+
+feign: 
+  hystrix: 
+    enabled: true
+management:
+  security:
+    enabled: false    

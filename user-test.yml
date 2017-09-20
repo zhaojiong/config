@@ -1,7 +1,7 @@
 eureka: 
   client: 
     serviceUrl: 
-      defaultZone: user-dev
+      defaultZone: user-test
 turbine: 
   appConfig: userservice,orderservice
   clusterNameExpression: "'default'"  
