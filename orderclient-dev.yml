@@ -4,6 +4,9 @@ user.userInfo.path: http://localhost:8080/u/{id}
 spring:
   application:
     name: orderclient
+  datasource: 
+    username: dbuser
+    password: 1234qazx      
 eureka: 
   client: 
     service-url:
@@ -14,7 +17,3 @@ feign:
 management:
   security:
     enabled: false
-spring:
-  datasource:
-    username: dbuser
-    password: 1234qazx

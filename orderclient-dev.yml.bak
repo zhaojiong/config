@@ -1,8 +1,5 @@
 server:
-  port: 8003
-#userservice: 
-#  ribbon: 
-#    ribbonLoadBalancer: com.netflix.loadbalancer.ZoneAwareLoadBalancer  
+  port: 8003 
 user.userInfo.path: http://localhost:8080/u/{id}
 spring:
   application:
