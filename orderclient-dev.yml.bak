@@ -6,7 +6,12 @@ spring:
     name: orderclient
   datasource: 
     username: dbuser
-    password: 1234qazx      
+    password: 'AQBdWfeeXqaHHU1SdEkhMEL+oak1wwJK8PlksD/VtVq9j9Ph9vhfMpLKJ12R/NOh/4LL2Dw9gwdusp8P
+XnzMecfR9boqeaa3SAaw/h8d+s0UWr7BsUkaSlgp4aX7O5KDySjXulA2GJ9hZxHAIZsXkjm8Mhl/yURi
+Thx/1vdxRR8bpmhrpmFzPwm44B6XgrP/Kku0m7p+iHOgwjb4AAqaMERnMxfUWjtWiUWM8ZCZhWhSy8FX
+gF8qJt9S1/hIGZG7RSkEyuFz+jychaeYL7ouIrGDmC3RvU2TMjOSwfWbjXpLdjBHHNHGdxpP8DVBzTps
+3CJbHcXUK2jFBHsLMLnLjoqYNnjmyYJ0vbM/jy6aXxfcWiuDur8qWqovHgu946H1jXo=
+E:\work\²âÊÔ\JUMP\spring cloud\SPÅàÑµÑ§Ï°201709>'      
 eureka: 
   client: 
     service-url:
