@@ -1,8 +1,8 @@
 server:
   port: 8341 
 user.userInfo.path: http://localhost:8080/u/{id}
-spring:
-  application:
+spring: 
+  application: 
     name: orderclient
   datasource: 
     username: dbuser1
