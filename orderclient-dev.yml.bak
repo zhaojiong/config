@@ -1,5 +1,5 @@
 server:
-  port: '{cipher}AQA9cbWE84wt6zJnL7AL+MsXlKlBxvZMGIw1/75JyjBKg25rSiPt65bO3EVGXg2xL6KF+xJV69RAfdSmQF5pOZuUg8bKggkSnvWNKA+renBCuY4/IPvM4sL/8fQAJrQU8yuJc2KaanZsRavcab5IuRufKs1HMDN0ZqAZpz+lgjkb67kLcMEX3IUcehJU4570ktYOsb82WUOOfJg6J6HG36/6ae2l38uzPSd7oQtvaScrcD4jxCljZgS8VPzHKqSq9Z52kJRkSnZibMa5HpSvjeM8JV3AS4rLupiNxoC05rbOeOj7slHQ7Xm5VxWaMOmwo4JLJYNCkQd19slv6N5k+HVtTjcj8AwLVIOBScEFf7PF1E06LPmbdoObt43OBZtvqxo=' 
+  port: 8341 
 user.userInfo.path: http://localhost:8080/u/{id}
 spring:
   application:
