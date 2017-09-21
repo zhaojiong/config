@@ -6,8 +6,4 @@ eureka:
       defaultZone: user-dev
 turbine: 
   appConfig: userservice,orderservice
-  clusterNameExpression: "'default'"  
-spring:
-  datasource:
-    username: dbuser
-    password: 1234qazx
+  clusterNameExpression: "'default'"
