@@ -6,7 +6,7 @@ spring:
     name: orderclient
   datasource: 
     username: dbuser1
-    password: '{cipher}04caadb136344d641912968564168c1289a81aa6c00720be2e8239a1ab938096'
+    password: '{cipher}fbbb79c0fd3367c4725821dba24fc1cc86d3503933bf99b55a2529afd58d9ac4'
 eureka: 
   client: 
     service-url:
