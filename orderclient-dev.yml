@@ -7,7 +7,7 @@ spring:
   datasource: 
     username: dbuser1
 #    password: '{cipher}fbbb79c0fd3367c4725821dba24fc1cc86d3503933bf99b55a2529afd58d9ac4'
-    password: 'AQBdWfeeXqaHHU1SdEkhMEL+oak1wwJK8PlksD/VtVq9j9Ph9vhfMpLKJ12R/NOh/4LL2Dw9gwdusp8PXnzMecfR9boqeaa3SAaw/h8d+s0UWr7BsUkaSlgp4aX7O5KDySjXulA2GJ9hZxHAIZsXkjm8Mhl/yURiThx/1vdxRR8bpmhrpmFzPwm44B6XgrP/Kku0m7p+iHOgwjb4AAqaMERnMxfUWjtWiUWM8ZCZhWhSy8FXgF8qJt9S1/hIGZG7RSkEyuFz+jychaeYL7ouIrGDmC3RvU2TMjOSwfWbjXpLdjBHHNHGdxpP8DVBzTps3CJbHcXUK2jFBHsLMLnLjoqYNnjmyYJ0vbM/jy6aXxfcWiuDur8qWqovHgu946H1jXo='
+    password: '{cipher}AQBdWfeeXqaHHU1SdEkhMEL+oak1wwJK8PlksD/VtVq9j9Ph9vhfMpLKJ12R/NOh/4LL2Dw9gwdusp8PXnzMecfR9boqeaa3SAaw/h8d+s0UWr7BsUkaSlgp4aX7O5KDySjXulA2GJ9hZxHAIZsXkjm8Mhl/yURiThx/1vdxRR8bpmhrpmFzPwm44B6XgrP/Kku0m7p+iHOgwjb4AAqaMERnMxfUWjtWiUWM8ZCZhWhSy8FXgF8qJt9S1/hIGZG7RSkEyuFz+jychaeYL7ouIrGDmC3RvU2TMjOSwfWbjXpLdjBHHNHGdxpP8DVBzTps3CJbHcXUK2jFBHsLMLnLjoqYNnjmyYJ0vbM/jy6aXxfcWiuDur8qWqovHgu946H1jXo='
 eureka: 
   client: 
     service-url:
