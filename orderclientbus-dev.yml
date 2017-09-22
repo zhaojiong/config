@@ -1,0 +1,20 @@
+server:
+  port: 8541 
+user.userInfo.path: http://localhost:8080/u/{id}
+spring: 
+  application: 
+    name: orderclient
+  datasource: 
+    username: dbuser1
+#    password: '{cipher}fbbb79c0fd3367c4725821dba24fc1cc86d3503933bf99b55a2529afd58d9ac4'
+    password: '{cipher}AQBdWfeeXqaHHU1SdEkhMEL+oak1wwJK8PlksD/VtVq9j9Ph9vhfMpLKJ12R/NOh/4LL2Dw9gwdusp8PXnzMecfR9boqeaa3SAaw/h8d+s0UWr7BsUkaSlgp4aX7O5KDySjXulA2GJ9hZxHAIZsXkjm8Mhl/yURiThx/1vdxRR8bpmhrpmFzPwm44B6XgrP/Kku0m7p+iHOgwjb4AAqaMERnMxfUWjtWiUWM8ZCZhWhSy8FXgF8qJt9S1/hIGZG7RSkEyuFz+jychaeYL7ouIrGDmC3RvU2TMjOSwfWbjXpLdjBHHNHGdxpP8DVBzTps3CJbHcXUK2jFBHsLMLnLjoqYNnjmyYJ0vbM/jy6aXxfcWiuDur8qWqovHgu946H1jXo='
+eureka: 
+  client: 
+    service-url:
+      defaultZone: http://user:password123@localhost:8761/eureka/,http://user:password123@localhost:8762/eureka/
+feign: 
+  hystrix: 
+    enabled: true
+management:
+  security:
+    enabled: false
