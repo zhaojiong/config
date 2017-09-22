@@ -1,5 +1,3 @@
-server:
-  port: 8542 
 user.userInfo.path: http://localhost:8080/uqaz/{id}
 spring: 
   application: 
