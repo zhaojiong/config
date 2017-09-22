@@ -1,5 +1,5 @@
 server:
-  port: 8541 
+  port: 8542 
 user.userInfo.path: http://localhost:8080/u/{id}
 spring: 
   application: 
