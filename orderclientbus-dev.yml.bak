@@ -1,4 +1,4 @@
-user.userInfo.path: http://localhost:8080/us2/{id}
+user.userInfo.path: http://localhost:8080/us2345/{id}
 spring: 
   application: 
     name: orderclientbus
