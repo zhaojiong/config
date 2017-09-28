@@ -3,7 +3,7 @@ server:
 eureka: 
   client: 
     serviceUrl: 
-      defaultZone: user
+      defaultZone: user-dev
 turbine: 
   appConfig: userservice,orderservice
   clusterNameExpression: "'default'"  
