@@ -1,6 +1,6 @@
 server:
   port: 8341 
-user.userInfo.path: http://localhost:8080/ut5/{id}
+#user.userInfo.path: http://localhost:8080/ut5/{id}
 spring: 
   application: 
     name: orderclient
